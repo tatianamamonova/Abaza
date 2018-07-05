@@ -1,0 +1,100 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.28 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "silences" 
+        xmin = 0 
+        xmax = 5.28 
+        intervals: size = 13 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.1790845688861233 
+            text = "" 
+        intervals [2]:
+            xmin = 1.1790845688861233 
+            xmax = 1.281043119245314 
+            text = "V1" 
+        intervals [3]:
+            xmin = 1.281043119245314 
+            xmax = 1.580043244544595 
+            text = "-voice" 
+        intervals [4]:
+            xmin = 1.580043244544595 
+            xmax = 1.7736059641004676 
+            text = "V2" 
+        intervals [5]:
+            xmin = 1.7736059641004676 
+            xmax = 2.464992875977365 
+            text = "" 
+        intervals [6]:
+            xmin = 2.464992875977365 
+            xmax = 2.663450047113242 
+            text = "V1" 
+        intervals [7]:
+            xmin = 2.663450047113242 
+            xmax = 2.8187282521442416 
+            text = "-voice" 
+        intervals [8]:
+            xmin = 2.8187282521442416 
+            xmax = 2.9549080683211613 
+            text = "V2" 
+        intervals [9]:
+            xmin = 2.9549080683211613 
+            xmax = 3.6340061454898605 
+            text = "" 
+        intervals [10]:
+            xmin = 3.6340061454898605 
+            xmax = 3.839531536276492 
+            text = "V1" 
+        intervals [11]:
+            xmin = 3.839531536276492 
+            xmax = 3.976709470432552 
+            text = "-voice" 
+        intervals [12]:
+            xmin = 3.976709470432552 
+            xmax = 4.132966729937782 
+            text = "V2" 
+        intervals [13]:
+            xmin = 4.132966729937782 
+            xmax = 5.28 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "" 
+        xmin = 0 
+        xmax = 5.28 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.1790845688861233 
+            text = "" 
+        intervals [2]:
+            xmin = 1.1790845688861233 
+            xmax = 1.7736059641004676 
+            text = "ata" 
+        intervals [3]:
+            xmin = 1.7736059641004676 
+            xmax = 2.464992875977365 
+            text = "" 
+        intervals [4]:
+            xmin = 2.464992875977365 
+            xmax = 2.9549080683211613 
+            text = "ata" 
+        intervals [5]:
+            xmin = 2.9549080683211613 
+            xmax = 3.6340061454898605 
+            text = "" 
+        intervals [6]:
+            xmin = 3.6340061454898605 
+            xmax = 4.132966729937782 
+            text = "ata" 
+        intervals [7]:
+            xmin = 4.132966729937782 
+            xmax = 5.28 
+            text = "" 

@@ -1,0 +1,108 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.112 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "silences" 
+        xmin = 0 
+        xmax = 5.112 
+        intervals: size = 15 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.1627063969716989 
+            text = "" 
+        intervals [2]:
+            xmin = 1.1627063969716989 
+            xmax = 1.2811980260823534 
+            text = "V1" 
+        intervals [3]:
+            xmin = 1.2811980260823534 
+            xmax = 1.5297878765991284 
+            text = "-voice" 
+        intervals [4]:
+            xmin = 1.5297878765991284 
+            xmax = 1.6953193997714142 
+            text = "V2" 
+        intervals [5]:
+            xmin = 1.6953193997714142 
+            xmax = 2.428599962332202 
+            text = "" 
+        intervals [6]:
+            xmin = 2.428599962332202 
+            xmax = 2.528414431933971 
+            text = "V1" 
+        intervals [7]:
+            xmin = 2.528414431933971 
+            xmax = 2.6598396517380896 
+            text = "" 
+        intervals [8]:
+            xmin = 2.6598396517380896 
+            xmax = 2.7843477547104123 
+            text = "-voice" 
+        intervals [9]:
+            xmin = 2.7843477547104123 
+            xmax = 2.9175022537224797 
+            text = "V2" 
+        intervals [10]:
+            xmin = 2.9175022537224797 
+            xmax = 3.637414576353733 
+            text = "" 
+        intervals [11]:
+            xmin = 3.637414576353733 
+            xmax = 3.727838596826084 
+            text = "V1" 
+        intervals [12]:
+            xmin = 3.727838596826084 
+            xmax = 3.8311803345087707 
+            text = "" 
+        intervals [13]:
+            xmin = 3.8311803345087707 
+            xmax = 3.9762562354863884 
+            text = "-voice" 
+        intervals [14]:
+            xmin = 3.9762562354863884 
+            xmax = 4.0428321626473505 
+            text = "V2" 
+        intervals [15]:
+            xmin = 4.0428321626473505 
+            xmax = 5.112 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "" 
+        xmin = 0 
+        xmax = 5.112 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.1627063969716989 
+            text = "" 
+        intervals [2]:
+            xmin = 1.1627063969716989 
+            xmax = 1.6953193997714142 
+            text = "apa" 
+        intervals [3]:
+            xmin = 1.6953193997714142 
+            xmax = 2.428599962332202 
+            text = "" 
+        intervals [4]:
+            xmin = 2.428599962332202 
+            xmax = 2.9175022537224797 
+            text = "apa" 
+        intervals [5]:
+            xmin = 2.9175022537224797 
+            xmax = 3.637414576353733 
+            text = "" 
+        intervals [6]:
+            xmin = 3.637414576353733 
+            xmax = 4.0428321626473505 
+            text = "apa" 
+        intervals [7]:
+            xmin = 4.0428321626473505 
+            xmax = 5.112 
+            text = "" 

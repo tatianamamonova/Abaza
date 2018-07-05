@@ -1,0 +1,76 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.848 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "silences" 
+        xmin = 0 
+        xmax = 4.848 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.221446898702341 
+            text = "" 
+        intervals [2]:
+            xmin = 1.221446898702341 
+            xmax = 1.3931357811973177 
+            text = "V1" 
+        intervals [3]:
+            xmin = 1.3931357811973177 
+            xmax = 1.607147969609661 
+            text = "-voice" 
+        intervals [4]:
+            xmin = 1.607147969609661 
+            xmax = 1.7532831579658503 
+            text = "V2" 
+        intervals [5]:
+            xmin = 1.7532831579658503 
+            xmax = 3.683071365920125 
+            text = "" 
+        intervals [6]:
+            xmin = 3.683071365920125 
+            xmax = 3.772120428158206 
+            text = "V1" 
+        intervals [7]:
+            xmin = 3.772120428158206 
+            xmax = 3.987448104078538 
+            text = "-voice" 
+        intervals [8]:
+            xmin = 3.987448104078538 
+            xmax = 4.070459941758105 
+            text = "V2" 
+        intervals [9]:
+            xmin = 4.070459941758105 
+            xmax = 4.848 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "" 
+        xmin = 0 
+        xmax = 4.848 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.221446898702341 
+            text = "" 
+        intervals [2]:
+            xmin = 1.221446898702341 
+            xmax = 1.7532831579658503 
+            text = "ata" 
+        intervals [3]:
+            xmin = 1.7532831579658503 
+            xmax = 3.683071365920125 
+            text = "" 
+        intervals [4]:
+            xmin = 3.683071365920125 
+            xmax = 4.070459941758105 
+            text = "ata" 
+        intervals [5]:
+            xmin = 4.070459941758105 
+            xmax = 4.848 
+            text = "" 
